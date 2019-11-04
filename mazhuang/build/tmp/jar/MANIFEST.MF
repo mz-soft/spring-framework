@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: mazhuang
+Automatic-Module-Name: mazhuang
+Implementation-Version: 5.1.9.BUILD-SNAPSHOT
+Created-By: 1.8.0_211 (Oracle Corporation)
+
